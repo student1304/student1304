@@ -49,6 +49,6 @@
 - [How I used Machine Learning to predict ESG Fund performance](https://bjoern-holste.medium.com/how-i-used-machine-learning-to-predict-esg-fund-performance-c8551c6c9a10?source=rss-cc504fb75438------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Publications
+### Latest Publications on different platforms
 - [Capital Market Fragmentation and Economic Value Migration How Europe's Financial System Promotes Wealth Transfer to the U.S](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5204091)
 - [PEPP stylized facts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5313588)
