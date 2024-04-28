@@ -42,4 +42,8 @@
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django hearts Supabase](https://bjoern-holste.medium.com/django-hearts-supabase-8b251f77d206?source=rss-cc504fb75438------2)
+- [Teaching kids to program](https://bjoern-holste.medium.com/teaching-kids-to-program-c3ea3e218116?source=rss-cc504fb75438------2)
+- [In which universe do ESG stocks perform better?](https://bjoern-holste.medium.com/in-which-universe-do-esg-stocks-perform-better-31524cc42d74?source=rss-cc504fb75438------2)
+- [How I used Machine Learning to predict ESG Fund performance](https://bjoern-holste.medium.com/how-i-used-machine-learning-to-predict-esg-fund-performance-c8551c6c9a10?source=rss-cc504fb75438------2)
 <!-- BLOG-POST-LIST:END -->
