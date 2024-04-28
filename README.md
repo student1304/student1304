@@ -18,4 +18,11 @@
 
 ### About
 - :heartbeat: I love building stuff with code
-- :left_speech_bubble:	think before you type
+- :thought_balloon:	think before you type
+
+### Toys
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" title="Ainsible" **alt="Ainsible" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
+
+</div>
