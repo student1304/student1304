@@ -18,3 +18,4 @@
 
 ### About
 - :heartbeat: I love building stuff with code
+- :left_speech_bubble:	think before you type
