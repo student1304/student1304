@@ -22,8 +22,10 @@
 
 ### Toys
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" title="Ainsible" **alt="Ainsible" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" **alt="Rust" width="30" height="30">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" title="Ainsible" **alt="Ainsible" width="30" height="30">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="blender" width="30" height="30"/>&nbsp;
 
