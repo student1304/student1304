@@ -51,3 +51,4 @@
 
 ### Latest Publications
 - [Capital Market Fragmentation and Economic Value Migration How Europe's Financial System Promotes Wealth Transfer to the U.S](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5204091)
+- [PEPP stylized facts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5313588)
