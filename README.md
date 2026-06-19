@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="https://linkedin.com/in/bjoern-holste">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="">
@@ -17,6 +17,7 @@
 </div>
 
 ### About
+- 💡Stealth Mode "Service-as-a-Software" Fintech
 - :heartbeat: I love building stuff with code
 - :thought_balloon:	think before you type
 
